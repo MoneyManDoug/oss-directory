@@ -1,0 +1,16 @@
+- name: OptiDoge
+  description: |
+    This project implements a custom ERC20 token contract, owndership was revoked
+  tags:
+    - Ethereum
+    - ERC20
+    - Token
+    - Solidity
+  links:
+    GitHub: https://github.com/MoneyManDoug/OptiDoge
+    Documentation: https://link-to-documentation.com
+  contractAddress: "0x139283255069Ea5deeF6170699AAEF7139526f1f"
+  license: Apache-2.0
+  category: Blockchain
+  language: Solidity
+  status: Active
